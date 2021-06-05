@@ -1,0 +1,27 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(108, 92, 177);
+    margin: 1em 10%;
+    font-size: 50px;
+    text-align:center; 
+    font-weight: 700;
+}
+h1{
+    color: cornflowerblue;
+    background-color: transparent;
+}
+a{
+    color: #c60;
+    background-color: transparent;
+    font-weight: bold;
+    text-decoration: none;
+}
+u1{
+    padding: 0;
+}
+li{
+    float:left;
+    padding:1em;
+    list-style: disc;
+    margin: auto;
+}
